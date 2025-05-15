@@ -13,7 +13,8 @@ Repositorios para armazenar resumos sobre GIT e GitHUb do curso versionamento de
 
  | Aulas | Resumos|
  |.......|........|
- | Gravando Alteração no Repositorios Local | [Resumo]
+ | Aula 01 | [Resumo]
+ | Aula 02 | [Resumo]
 () |
 
 ...
